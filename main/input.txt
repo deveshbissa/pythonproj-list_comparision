@@ -1,0 +1,10 @@
+#Input For testing
+
+#list of tuple
+list_1 = [("abc","cde"),("ver","tes"),("ber","est"),("vre","bse"),("der","fer")]
+list_2 = [("abc","cdc"),("ver","tes"),("ber","est"),("vre","bse"),("per","lkret")]
+    
+#list of dictionary
+list_1 = [{ 'name': 'Miken', 'age': 40},{ 'name': 'Johnn', 'age': 24},{ 'name': 'Alyn', 'age': 35}]
+
+#list_2 = [{ 'name': 'Miken', 'age':40 },{ 'name': 'Jonn', 'age': 24},{ 'name': 'Alyn', 'age': 32},{ 'name': 'Allyn', 'age': 44}]
